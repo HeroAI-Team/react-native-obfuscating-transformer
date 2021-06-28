@@ -6,13 +6,7 @@ export const line8 = true;
 //# sourceMappingURL=hello.js.map"
 `;
 
-exports[`composeSourceMaps composes two source maps together 2`] = `
-"Object.defineProperty(exports, \\"__esModule\\", {
-  value: true
-});
-console.log(\\"line6\\");
-var line8 = exports.line8 = true;"
-`;
+exports[`composeSourceMaps composes two source maps together 2`] = `undefined`;
 
 exports[`convertMetroRawSourceMapToStandardSourceMap takes a raw source map and converts it to a non-raw source map 1`] = `
 Array [
